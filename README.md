@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Akshat 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=0A66C2&center=true&vCenter=true&width=600&height=60&lines=Data+Scientist+%7C+AI+Engineer;LLMs+%7C+Voice+AI+%7C+Systems;Building+Production-Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=0A66C2&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer+%7C+Researcher;LLMs+%7C+Voice+AI+%7C+Systems;Building+Production-Ready+AI+Systems" />
 </p>
 
 ---
@@ -17,6 +17,14 @@ I'm a **Data Science & AI Engineer** focused on building **real-world intelligen
 - ⚡ I care about **latency, scalability, and real deployment**
 
 > I build systems that don’t just work — they scale.
+
+---
+
+### 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/akshatparmar2634/akshatparmar2634/blob/output/github-snake-dark.svg" />
+</p>
 
 ---
 
@@ -41,19 +49,28 @@ LLMs · Voice AI · RAG · Financial Systems
 
 ### 📌 Featured Work  
 
-#### 🎙️ AI Voice Agent (BFSI)
-- Outbound calling agent for **loan qualification**
-- Integrated **Twilio + ElevenLabs**
-- Designed **real-time conversational flow + validation logic**
+#### 💼 FinMCP (Model Context Protocol - Multi-Agent System)
+- Built a **multi-agent system based on Model Context Protocol (MCP)** for financial workflows  
+- Designed specialized agents for **lead qualification, data extraction, validation, and decision-making**  
+- Implemented **context sharing and coordination between agents** for consistent outputs  
+- Integrated **LLMs with structured pipelines** to reduce hallucination and improve reliability  
+- Optimized for **real-time execution, low latency, and modular scalability**  
 
-#### 📊 StocksTalk (NL → SQL Engine)
-- Converts natural language to **financial queries**
-- Handles **complex constraints + screening logic**
-- Optimized for **accuracy + low latency**
+---
 
-#### 🤖 ML Pipeline System
-- End-to-end pipeline: **training → inference → API**
-- Production-style deployment with structured workflows
+#### 📊 StocksTalk (Natural Language → SQL Engine)
+- Converts **natural language queries into executable SQL** for financial datasets  
+- Handles **complex multi-constraint queries** (filters, ratios, temporal conditions)  
+- Built a **constraint extraction + query generation pipeline**  
+- Ensures **logical correctness, execution success, and low-latency responses**  
+
+---
+
+#### 🧠 Finance LLMs / Institute Chatbot (RAG System)
+- Developed a **RAG-based chatbot** for institutional and financial data access  
+- Pipeline: **document ingestion → embedding → retrieval → LLM generation**  
+- Supports **context-aware Q&A over large unstructured datasets**  
+- Designed for **scalable deployment and efficient retrieval performance**  
 
 ---
 
@@ -63,14 +80,6 @@ LLMs · Voice AI · RAG · Financial Systems
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=akshatparmar2634&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <br><br>
   <img height=160 src="https://streak-stats.demolab.com/?user=akshatparmar2634&theme=radical" />
-</p>
-
----
-
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/akshatparmar2634/akshatparmar2634/blob/output/github-snake-dark.svg" />
 </p>
 
 ---
