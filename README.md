@@ -20,15 +20,13 @@ I'm a **Data Science & AI Engineer** focused on building **real-world intelligen
 
 ---
 
-### 🐍 Contributions
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github.com/akshatparmar2634/akshatparmar2634/blob/output/github-snake-dark.svg" />
 </p>
 
 ---
-
-### 📊 GitHub Stats  
 
 <p align="center">
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=akshatparmar2634&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
