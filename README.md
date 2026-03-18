@@ -78,8 +78,8 @@ LLMs · Voice AI · RAG · Financial Systems
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img width="38" height="38" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-  <a href="mailto:your.email@gmail.com"><img width="38" height="38" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></a>
+  <a href="https://linkedin.com/in/akshat-chaw-parmar"><img width="38" height="38" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+  <a href="akshatparmar2634@gmail.com"><img width="38" height="38" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></a>
 </p>
 
 ---
