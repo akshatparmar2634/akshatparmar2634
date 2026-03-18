@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=0A66C2&center=true&vCenter=true&width=600&height=60&lines=AI+Engineer+%7C+Researcher;LLMs+%7C+Voice+AI+%7C+Systems;Building+Production-Ready+AI+Systems" />
 </p>
 
----
-
-### 👨‍💻 About Me  
-
 I'm a **Data Science & AI Engineer** focused on building **real-world intelligent systems**, not just models.
 
 - 🎯 Preparing for **Data Science / AI roles**
@@ -25,8 +21,6 @@ I'm a **Data Science & AI Engineer** focused on building **real-world intelligen
 <p align="center">
   <img src="https://github.com/akshatparmar2634/akshatparmar2634/blob/output/github-snake-dark.svg" />
 </p>
-
----
 
 <p align="center">
   <img height=160 src="https://github-readme-stats.vercel.app/api?username=akshatparmar2634&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
