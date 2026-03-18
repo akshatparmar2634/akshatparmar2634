@@ -28,6 +28,16 @@ I'm a **Data Science & AI Engineer** focused on building **real-world intelligen
 
 ---
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=akshatparmar2634&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <br><br>
+  <img height=160 src="https://streak-stats.demolab.com/?user=akshatparmar2634&theme=radical" />
+</p>
+
+---
+
 ### ⚙️ Tech Stack  
 
 **Languages**  
@@ -71,16 +81,6 @@ LLMs · Voice AI · RAG · Financial Systems
 - Pipeline: **document ingestion → embedding → retrieval → LLM generation**  
 - Supports **context-aware Q&A over large unstructured datasets**  
 - Designed for **scalable deployment and efficient retrieval performance**  
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=akshatparmar2634&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <br><br>
-  <img height=160 src="https://streak-stats.demolab.com/?user=akshatparmar2634&theme=radical" />
-</p>
 
 ---
 
