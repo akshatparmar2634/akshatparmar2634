@@ -20,7 +20,7 @@ I'm a **Data Science & AI Engineer** focused on building **real-world intelligen
 
 ---
 
-### 🐍 Contribution Snake  
+### 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/akshatparmar2634/akshatparmar2634/blob/output/github-snake-dark.svg" />
