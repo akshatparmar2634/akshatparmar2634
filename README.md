@@ -12,8 +12,6 @@ I'm a **Data Science & AI Engineer** focused on building **real-world intelligen
 - 📊 Strong interest in **financial ML & applied AI**
 - ⚡ I care about **latency, scalability, and real deployment**
 
-> I build systems that don’t just work — they scale.
-
 ---
 
 ### 📊 GitHub Stats  
